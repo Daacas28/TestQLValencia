@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">MapaDistritos</string>
-    <string name="kml_url">http://mapas.valencia.es/lanzadera/opendata/Distritos/KML</string>
-</resources>
