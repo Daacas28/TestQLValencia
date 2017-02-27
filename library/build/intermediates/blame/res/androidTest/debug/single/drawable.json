@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MapaDistritos\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\MapaDistritos\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\MapaDistritos\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\MapaDistritos\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\MapaDistritos\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\MapaDistritos\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\MapaDistritos\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\MapaDistritos\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    }
+]
